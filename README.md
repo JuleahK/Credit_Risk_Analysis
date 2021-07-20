@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/78892035/126404042-d4e4afa9-aab6-4c6c-8291-40a2a026dcd9.png)
+
+
 # Credit_Risk_Analysis
 
 ## Overview
